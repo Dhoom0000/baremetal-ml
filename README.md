@@ -1,6 +1,8 @@
 # Baremetal Machine Learning model with a kernel in Rust
 # Baremetal Programming on Raspberry Pi 5
 
+Status: Hiatus 🥲
+
 ## Sources
 - Writing an OS in Rust: https://os.phil-opp.com/
 - ARM Documentation: https://developer.arm.com/documentation/100798/0401
