@@ -1,4 +1,4 @@
-# https://wiki.osdev.org/Raspberry_Pi_Bare_Bones#Freestanding_and_Hosted_Environments
+/* https://wiki.osdev.org/Raspberry_Pi_Bare_Bones#Freestanding_and_Hosted_Environments */
 
 ENTRY(_start)
 
